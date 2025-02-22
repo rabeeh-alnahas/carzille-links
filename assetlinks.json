@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.app.carzille",
+      "sha256_cert_fingerprints": [
+        "3C:67:6B:05:76:D7:12:D3:9B:A1:E6:66:44:86:F4:53:D1:22:C1:0C:C9:32:37:C4:E7:54:DA:35:FB:EC:DE:9D"
+      ]
+    }
+  }
+]
